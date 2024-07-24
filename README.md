@@ -29,6 +29,14 @@ the following code inside the ``<head></head>`` section at the start of the html
 ```
 
 Replace ``/path/to/css/file/`` with the actual path where you saved it like ``/assets/css/easyCSS.css``
+
+## How do you use easyCSS?
+You can add easyCSS like explained above.  
+You can find a cheatsheet [here](/cheatsheet.md).  
+To add own options, you need to download the most recent version of easyCSS and add it yourself.
+
+---
+
   
 ## Changelogs:
 v1 - Released: 18.07.2024  
