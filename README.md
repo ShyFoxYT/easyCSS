@@ -17,7 +17,7 @@ You can install easyCSS by using either my Content-Delivery-Network or for bette
 #### CDN:
 To use the CDN version you can copy and add this into your ``<head></head>`` section at the start of the html file.
 ```html
-<link rel="stylesheet" href="https://cdn.shyfox.de/easyCSS/v1/easyCSS.css" integrity="sha384-iHMq23QUWciHl/lUx9pBq61mHiD7y9h7oIOnDDmwzivyrcfE/X1KXFDsMCYDszg/" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.shyfox.de/easyCSS/v1/easyCSS.css" integrity="sha384-pAI+2hfbCe4+o13UVrB0Hnk+2PCTEMb/iPGJQjtH7522KwGyvKqPH0y18Zr1IafU" crossorigin="anonymous">
 ```
   
 #### Download
